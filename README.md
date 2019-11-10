@@ -4,7 +4,6 @@ Mi nombre es Wesner Mendoza y estoy aqui creando una paguina web  a bases de  2 
 
 ### _Biografia._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
