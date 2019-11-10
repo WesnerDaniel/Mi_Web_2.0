@@ -5,7 +5,7 @@ Mi nombre es Wesner mendoza, estoy creando una paguina web a partir de 2 videos 
 ## _ELLA NO TE AMA_
 ### 5 A 0  COQUETA TE ACUERDAS Y TE DUELE JAJA SALUDOS
 
-`Color:red`**Hola Mundo**
+`**Hola Mundo**`
 
 
 
