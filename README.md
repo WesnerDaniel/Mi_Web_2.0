@@ -15,9 +15,7 @@ Bienvenidos a la paguina web mostrare lo que pude realizar.
  `¿Cómo se ríe un ojo?
   ¡¡OJOJOJOJOJOJOJOJO!!`
 
-
-
-   En una entrevista de trabajo:
+  `En una entrevista de trabajo:
   - ¿Nivel de inglés?
   - Alto
   - Bien. Traduzca "fiesta".
