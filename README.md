@@ -19,13 +19,13 @@ Bienvenidos a mi web
   ¡¡OJOJOJOJOJOJOJOJO!!`
 
   `En una entrevista de trabajo:
-  - ¿Nivel de inglés?
-  - Alto
-  - Bien. Traduzca "fiesta".
-  - Party.
-  - Perfecto. Úselo en una frase.
-  - Ayer me party la cara con la bicicleta.
-   Contratado`
+    ¿Nivel de inglés?
+    Alto
+    Bien. Traduzca "fiesta".
+    Party.
+    Perfecto. Úselo en una frase.
+    Ayer me party la cara con la bicicleta.
+    Contratado`
 
 
 ![Un precio razonable](https://user-images.githubusercontent.com/57574200/68559839-778bf100-040c-11ea-93c2-37e877325de8.png)
