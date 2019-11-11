@@ -10,4 +10,4 @@ Bienvenidos a la paguina web mostrare lo que pude realizar.
 *N*o me gusta que me mientan o que alguien abuse de otra persona,
 
 
-https://raw.githubusercontent.com/WesnerDaniel/Mi-Web-2.0/maestro/assets/Mi-Web-2.0 /descarga.png
+https://raw.githubusercontent.com/WesnerDaniel/Mi-Web-2.0/maestro/assets/Mi-Web-2.0/descarga.png
