@@ -10,8 +10,7 @@ Bienvenidos a la paguina web mostrare lo que pude realizar.
 *N*o me gusta que me mientan o que alguien abuse de otra persona,
 
 
-
-` *¿Cómo se ríe un ojo?
+`*¿Cómo se ríe un ojo?`
 ¡¡OJOJOJOJOJOJOJOJO!!
 
 
@@ -35,4 +34,5 @@ Bienvenidos a la paguina web mostrare lo que pude realizar.
 - Ayer me party la cara con la bicicleta.
 
 
-- Contratado`
+- Contratado.`
+
