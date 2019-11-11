@@ -17,12 +17,10 @@ Bienvenidos a mi web
 
 
  *¿Cómo se ríe un ojo?
- 
   ¡¡OJOJOJOJOJOJOJOJO!!*
 
 
   *En una entrevista de trabajo:
-  
     -¿Nivel de inglés?
     -Alto
     -Bien. Traduzca "fiesta".
