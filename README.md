@@ -39,4 +39,6 @@ Bienvenidos a la paguina web mostrare lo que pude realizar.
 
 - Contratado.`
 
+![descarga](https://user-images.githubusercontent.com/57574200/68559482-2fb89a00-040b-11ea-83a8-b3e7cd84bc80.png)
+
 
