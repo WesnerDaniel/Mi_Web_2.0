@@ -9,7 +9,7 @@ Bienvenidos a mi web
 
 ### _Biografía_
 
-*M*i nombre es, Wesner Daniel Mendoza Soledispa, hijo mayor de 3 hermanos mi edad es de 21 años Nací en la ciudad de guayaquil, un día martes 25 de agosto del año 1998, me gusta mucho realizar actividades en las que tenga que dar lo mejor de mi, aunque no siempre salgan bien, me gusta salir, me gustan los perros.
+*M*i nombre es, Wesner Daniel Mendoza Soledispa, hijo mayor de 3 hermanos mi edad es de 21 años nací en la ciudad de guayaquil, un día martes 25 de agosto del año 1998, me gusta mucho realizar actividades en las que tenga que dar lo mejor de mi, aunque no siempre salgan bien, me gusta salir, me gustan los perros.
 
 
 
