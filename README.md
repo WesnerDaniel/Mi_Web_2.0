@@ -11,10 +11,28 @@ Bienvenidos a la paguina web mostrare lo que pude realizar.
 
 [ descarga.png ] (src)
 
+` *¿Cómo se ríe un ojo?
+¡¡OJOJOJOJOJOJOJOJO!!
 
-## Chistes
 
 
-`¿Cómo se ríe un ojo?
-¡¡OJOJOJOJOJOJOJOJO!!`
+*En una entrevista de trabajo:
+- ¿Nivel de inglés?
 
+
+- Alto
+
+
+- Bien. Traduzca "fiesta".
+
+
+- Party.
+
+
+- Perfecto. Úselo en una frase.
+
+
+- Ayer me party la cara con la bicicleta.
+
+
+- Contratado.`
