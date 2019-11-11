@@ -9,5 +9,12 @@ Bienvenidos a la paguina web mostrare lo que pude realizar.
 
 *N*o me gusta que me mientan o que alguien abuse de otra persona,
 
+[ descarga.png ] (src)
 
-https://raw.githubusercontent.com/WesnerDaniel/Mi-Web-2.0/maestro/assets/Mi-Web-2.0/descarga.png
+
+## Chistes
+
+
+`¿Cómo se ríe un ojo?
+¡¡OJOJOJOJOJOJOJOJO!!`
+
